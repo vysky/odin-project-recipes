@@ -1,5 +1,5 @@
 # odin-project-recipes
 
-A simple HTML web pages of a few recipes
+HTML practice - A simple HTML website of receipes
 
 https://vysky.github.io/odin-project-recipes/
